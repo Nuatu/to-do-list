@@ -1,3 +1,7 @@
-Epicodus OO lesson, week 2 assignment 1.
+Epicodus lesson on Object Oriented Design, week2 Day1 assignment1.
 
-Take the user input for a task they want to complete. Mark it complete when they click on the output.
+Take user input for a task they want to complete. 
+
+Strike through when the user clicks the radio button.
+
+Remove strike through when the user un-clicks the radio button.
